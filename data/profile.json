@@ -1,0 +1,57 @@
+{
+  "name": "Weslley",
+  "photo": "https://avatars.githubusercontent.com/u/116997181?v=4",
+  "job": "Full-Stack Developer in training",
+  "location": "Belo Horizonte - MG",
+  "phone": "(31) 98376-1381",
+  "email": "weslleyatr07@gmail.com",
+  "skills": {
+    "softSkills": [
+      "Fácil Adaptação",
+      "Ótimo relacionamento interpessoal",
+      "Proativo",
+      "Comunicativo",
+      "Flexível",
+      "Dinâmico",
+      "Resolução de problemas"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto Wiki do Github",
+      "url": "https://github.com/weslleytr/projeto-wiki-github",
+      "github": true
+    },
+    {
+      "name": "Projeto Gitfind",
+      "url": "https://github.com/weslleytr/projeto-gitfind",
+      "github": true
+    },
+    {
+      "name": "Projeto Login",
+      "url": "https://github.com/weslleytr/projeto-login",
+      "github": true
+    },
+    {
+      "name": "Projeto Android",
+      "url": "https://github.com/weslleytr/projeto-android",
+      "github": true
+    },
+    {
+      "name": "Para ver mais, acesse meu perfil do Github",
+      "url": "https://github.com/weslleytr/",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estagiário de Análise e Desenvolvimento de Sistemas / Fundação Hemominas",
+      "period": "Apr 2024 - Current",
+      "description": "Atuo no auxílio ao desenvolvimento de software, realizando correções de bugs e implementando melhorias em sistemas. Participo de testes de software e validação de funcionalidades, garantindo o bom funcionamento das aplicações. Colaboro na análise de requisitos e na elaboração de especificações técnicas, além de contribuir com a documentação técnica e atualização de sistemas. Ofereço suporte técnico básico, monitorando o desempenho dos sistemas e ajudando na resolução de problemas. Acompanho projetos de desenvolvimento e manutenção de sistemas, adquirindo experiência prática em diversas etapas do ciclo de vida de software."
+    }
+  ]
+}
