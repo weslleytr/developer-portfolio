@@ -9,7 +9,7 @@ function updateProfileInfo(profileData) {
     const job = document.getElementById('profile.job')
     job.innerHTML = `${profileData.job}
         <a href="https://www.linkedin.com/in/weslleytr" target="_blank">
-            <img src="/assets/img/icons/linkedin.svg" alt="LinkedIn Icon">
+            <img src="assets/img/icons/linkedin.svg" alt="LinkedIn Icon">
         </a> `;
 
     const location = document.getElementById('profile.location')

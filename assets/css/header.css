@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Neue Machina';
-    src: url(/assets/fonts/neue-machina-regular.otf);
+    src: url(assets/fonts/neue-machina-regular.otf);
 }
 
 .header {
@@ -17,7 +17,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/header.svg');
+    background-image: url('assets/img/icons/header.svg');
     position: absolute;
     top: 1rem;
     right: 1rem;
@@ -54,26 +54,26 @@
     display: inline-block;
     width: 1rem;
     height: 1rem;
-    background-image: url(/assets/img/icons/job.svg);
+    background-image: url(assets/img/icons/job.svg);
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: .5rem;
 }
 
 .information .job::before {
-    background-image: url('/assets/img/icons/job.svg');
+    background-image: url('assets/img/icons/job.svg');
 }
 
 .information .location::before {
-    background-image: url('/assets/img/icons/location.svg');
+    background-image: url('assets/img/icons/location.svg');
 }
 
 .information .phone::before {
-    background-image: url('/assets/img/icons/phone.svg');
+    background-image: url('assets/img/icons/phone.svg');
 }
 
 .information .email::before {
-    background-image: url('/assets/img/icons/email.svg');
+    background-image: url('assets/img/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px) {
