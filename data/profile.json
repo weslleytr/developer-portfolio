@@ -50,8 +50,12 @@
   "professionalExperience": [
     {
       "name": "Estagiário de Análise e Desenvolvimento de Sistemas / Fundação Hemominas",
-      "period": "Apr 2024 - Current",
+      "period": "Apr 2024 - Nov 2024",
       "description": "Atuo no auxílio ao desenvolvimento de software, realizando correções de bugs e implementando melhorias em sistemas. Participo de testes de software e validação de funcionalidades, garantindo o bom funcionamento das aplicações. Colaboro na análise de requisitos e na elaboração de especificações técnicas, além de contribuir com a documentação técnica e atualização de sistemas. Ofereço suporte técnico básico, monitorando o desempenho dos sistemas e ajudando na resolução de problemas. Acompanho projetos de desenvolvimento e manutenção de sistemas, adquirindo experiência prática em diversas etapas do ciclo de vida de software."
+    },
+    {
+      "name": "Estagiário de Desenvolvimento Web / MGS - Minas Gerais Administração e Serviços S.A.",
+      "period": "Dec 2024 - Current"
     }
   ]
 }
