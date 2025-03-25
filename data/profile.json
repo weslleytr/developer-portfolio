@@ -1,7 +1,7 @@
 {
   "name": "Weslley",
   "photo": "https://avatars.githubusercontent.com/u/116997181?v=4",
-  "job": "Full-Stack Developer in training",
+  "job": "Full-Stack Developer",
   "location": "Belo Horizonte - MG",
   "phone": "(31) 98376-1381",
   "email": "weslleyatr07@gmail.com",
@@ -51,11 +51,12 @@
     {
       "name": "Estagiário de Análise e Desenvolvimento de Sistemas / Fundação Hemominas",
       "period": "Apr 2024 - Nov 2024",
-      "description": "Atuo no auxílio ao desenvolvimento de software, realizando correções de bugs e implementando melhorias em sistemas. Participo de testes de software e validação de funcionalidades, garantindo o bom funcionamento das aplicações. Colaboro na análise de requisitos e na elaboração de especificações técnicas, além de contribuir com a documentação técnica e atualização de sistemas. Ofereço suporte técnico básico, monitorando o desempenho dos sistemas e ajudando na resolução de problemas. Acompanho projetos de desenvolvimento e manutenção de sistemas, adquirindo experiência prática em diversas etapas do ciclo de vida de software."
+      "description": "Analisar e criar soluções para os sistemas internos de toda rede Hemominas. Experiência com as seguintes tecnologias: PHP, JavaScript, HTML, CSS, Python, Docker, Oracle Database. Também possuo breve experiência com metodologias ágeis (Kanban)."
     },
     {
       "name": "Estagiário de Desenvolvimento Web / MGS - Minas Gerais Administração e Serviços S.A.",
-      "period": "Dec 2024 - Current"
+      "period": "Dec 2024 - Current",
+      "description": "Analisar e criar soluções para sistemas e aplicativos. Tenho experiência com o framework Codeigniter(PHP) e também atuo com C# no framework .NET, criando APIs e mantendo sistemas web. Além disso, trabalho com desenvolvimento mobile utilizando React Native e integrações via Barramento WSO2."
     }
   ]
 }
